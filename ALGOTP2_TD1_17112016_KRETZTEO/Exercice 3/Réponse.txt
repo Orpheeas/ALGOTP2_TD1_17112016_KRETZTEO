@@ -1,0 +1,8 @@
+Les relation dans le MCD sont : - Un élève fréquente une ou plusieurs classe durant une année scolaire
+								- Une classe est fréquenté par un ou plusieurs élèves au cours d'une année scolaire
+								- Un professeur enseigne dans une ou plusieurs classes chaque année
+								- Un professeur enseigne une ou plusieurs matière durant une année
+								- Dans chaque classe un ou plusieurs professeur enseigne
+								- Dans chaque classe une ou plusieurs matières sont enseignées
+								- Une matière est enseigné par un ou plusieurs professeur
+								- Une ou plusieurs matière sont enseignées en classe chaque année

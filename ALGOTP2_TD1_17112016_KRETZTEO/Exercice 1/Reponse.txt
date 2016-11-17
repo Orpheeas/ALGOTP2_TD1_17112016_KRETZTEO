@@ -1,0 +1,20 @@
+1) Les différentes entités sont : - Client et ses propriétés sont : numclient,nom,prenom et adresse
+								  - Bénéficiares et ses propriétés sont : numclient, numcompte
+								  - Compte et ses propriétés sont : numcompte, solde
+								  - Opérations et ses propriétés sont : Numopération,Nomoperation, Dateoperation, numcompte, montant
+
+2) Les différentes associations sont : - Un client est un bénéficiare 
+									   - Un bénéficiaire est un client
+									   - Un bénéficiare possède un ou plusieurs comptes
+									   - Un compte est possédé par un ou plusieurs bénéficiares
+									   - Une opération est effectué par un client
+									   - Un client effectue 0 ou pls operation
+									   - Une opération est réalisé sur un compte
+									   - Un compte subit zero ou plusieurs opérations
+									   (Les propriétés ont été ajoutés sur la question 1)
+
+3) Le MCD se prénomme MCDexo1.png dans le git
+
+4) Le MPD se prénomme MPDexo1.png dans le git
+
+5) Le script se nomme Scriptbanque.sql dans le git

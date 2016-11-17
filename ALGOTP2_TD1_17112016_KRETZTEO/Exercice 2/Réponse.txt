@@ -1,0 +1,14 @@
+1) Les différentes entités sont : -Produit qui a pour propriété : Codepdt, Libele, Prix
+								  -Client qui a pour propriété : Numclient, Nom, Prenom, Adresse
+								  -Commande qui a pour propriété : NumCom, Numclient, Adresselivr, Datecomm, Codepdt, Quantite
+								 
+2) Les différentes associations sont : Un client passe une à plusieurs commande
+									   Une commande est passé par un client
+									   Une commande est composé par un ou plusieurs produits
+									   Un produit  compose une ou plusieurs commandes
+
+3) Le MCD se prénomme MCDexo2.png dans le git
+
+4) Le MPD se prénomme MPDexo2.png dans le git
+
+5) Le script se nomme Scriptshop.sql dans le git
